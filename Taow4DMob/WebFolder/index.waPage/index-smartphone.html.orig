@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html><html>
+    <head>
+        <title>index-smartphone</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Wakanda GUIDesigner"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+        <meta name="WAF.catalog" content=""/>
+        <meta name="WAF.packageJson"/>
+    	<meta name="wakanda-version" content="8 build 8.162963"/>
+		<meta name="wakanda-build" content="8.162963"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1.0"/>
+		
+		
+
+
+		<meta name="WAF.config.loadCSS" id="waf-interface-css" content="styles/index-smartphone.css"/>
+		<meta name="WAF.config.loadCSS" id="waf-project-css" content="/application.css"/>
+		<meta name="WAF.config.loadCSS" content="/app.css"/>
+<meta name="WAF.config.modules" content="smartphone"/>
+<meta name="WAF.config.loadJS" id="waf-script" content="scripts/index-smartphone.js"/>
+</head>
+    <body id="waf-body" data-workspace-width="320" data-workspace-orientation="portrait" data-workspace-height="480" data-workspace-device="smartphone" data-viewport-width="device-width" data-viewport-minimum-scale="1.0" data-viewport-maximum-scale="1.0" data-viewport-initial-scale="1.0" data-type="document" data-theme="cupertino" data-platform="smartphone" data-lib="WAF" data-group="[['tabView1','menuBar1','container1','container2','container3']]" data-entire-model="false" data-apple-meta-tags-status-bar="default" style="bottom:;right:;visibility:hidden;">
+	<div id="tabView1" data-type="tabView" data-padding="0" data-menu-position="top left" data-linked-tag="menuBar1,container1,container2,container3" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" class="waf-widget waf-tabView">
+	 	<ul id="menuBar1" data-type="menuBar" data-tab-margin="0" data-subMenuShow="hover" data-linked-tag="tabView1" data-lib="WAF" data-display="horizontal" data-context="['protected']" data-constraint-top="true" data-constraint-right="true" data-constraint-left="true" data-constraint-bottom="false" class="waf-tabView-menuBar waf-tabView-menuBar-top-left waf-widget waf-menuBar" data-level="0">
+	 	 	<li id="menuItem1" data-type="menuItem" data-linked-tag="richText1,container1" data-lib="WAF" data-context="['protected','allowDrop','allowRemove']" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-menuItem waf-menuItem-level-0 waf-level-0">
+	 	 	 	<div id="richText1" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-linked-tag="menuItem1" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="false" class="waf-widget waf-richText">[Tab 1]</div>
+ 	 	 	</li>
+ 	 		<li id="menuItem2" data-type="menuItem" data-linked-tag="richText2,container2" data-lib="WAF" data-context="['protected','allowDrop','allowRemove']" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-menuItem waf-menuItem-level-0 waf-level-0">
+	 	 	 	<div id="richText2" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-linked-tag="menuItem2" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="false" class="waf-widget waf-richText">[Tab 2]</div>
+ 	 	 	</li>
+ 	 		<li id="menuItem3" data-type="menuItem" data-linked-tag="richText3,container3" data-lib="WAF" data-context="['protected','allowDrop','allowRemove']" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-menuItem waf-menuItem-level-0 waf-level-0">
+	 	 	 	<div id="richText3" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-linked-tag="menuItem3" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="false" class="waf-widget waf-richText">[Tab 3]</div>
+ 	 	 	</li>
+ 	 	</ul>
+ 		<div id="container1" data-type="container" data-linked-tag="menuItem1" data-lib="WAF" data-label-position="top" data-label="" data-context="['protected','allowDrop','allowBind','allowPaste']" data-constraint-top="true" data-constraint-right="true" data-constraint-left="true" data-constraint-bottom="true" class="waf-widget waf-container waf-container-level-0 waf-level-0 waf-tabView-container-level-0">
+	 	 	<div id="container4" data-type="container" data-lib="WAF" class="waf-widget waf-container waf-container-level-1 waf-level-1" data-label="" data-label-position="top" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">
+	 	 	 	<span id="icon2" data-type="icon" data-lib="WAF" data-label="" data-label-position="left" data-icon-type="images" class="waf-widget waf-icon" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false" data-image-state1="/images/add-list-64.png"><img src="/images/add-list-64.png" class="waf-icon-state1"/></span>
+ 	 	 		<div id="richText5" data-type="richText" data-lib="WAF" class="waf-widget waf-richText" data-autoWidth="true" data-label="" data-label-position="left" data-target="_blank" data-overflow="Hidden" data-plainText="true" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">Déclarer un incident</div>
+ 	 	 	</div>
+ 	 	<div id="container5" data-type="container" data-lib="WAF" class="waf-widget waf-container waf-container-level-1 waf-level-1" data-label="" data-label-position="top" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">
+	 	 	 	<span id="icon3" data-type="icon" data-lib="WAF" data-label="" data-label-position="left" data-icon-type="images" class="waf-widget waf-icon" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false" data-image-state1="/images/config_02.png"><img src="/images/config_02.png" class="waf-icon-state1"/></span>
+ 	 	 		<div id="richText6" data-type="richText" data-lib="WAF" class="waf-widget waf-richText" data-autoWidth="true" data-label="" data-label-position="left" data-target="_blank" data-overflow="Hidden" data-plainText="true" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">Configurations</div>
+ 	 	 	</div>	<div id="container6" data-type="container" data-lib="WAF" class="waf-widget waf-container waf-container-level-1 waf-level-1" data-label="" data-label-position="top" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">
+	 	 	 	<span id="icon4" data-type="icon" data-lib="WAF" data-label="" data-label-position="left" data-icon-type="images" class="waf-widget waf-icon" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false" data-image-state1="/images/incident_02.png"><img src="/images/incident_02.png" class="waf-icon-state1"/></span>
+ 	 	 		<div id="richText7" data-type="richText" data-lib="WAF" class="waf-widget waf-richText" data-autoWidth="true" data-label="" data-label-position="left" data-target="_blank" data-overflow="Hidden" data-plainText="true" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">Incidents</div>
+ 	 	 	</div>
+ 	 		<div id="container7" data-type="container" data-lib="WAF" class="waf-widget waf-container waf-container-level-1 waf-level-1" data-label="" data-label-position="top" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false"></div>
+	 	 	<div id="container4" data-type="container" data-lib="WAF" data-label-position="top" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-container waf-container-level-1 waf-level-1">
+	 	 	 	<span id="icon2" data-type="icon" data-lib="WAF" data-label-position="left" data-label="" data-image-state1="/images/add-list-64.png" data-icon-type="images" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-icon"><img src="/images/add-list-64.png" class="waf-icon-state1"/></span>
+ 	 	 	</div>
+ 	 	<div id="container5" data-type="container" data-lib="WAF" data-label-position="top" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-container waf-container-level-1 waf-level-1">
+	 	 	 	<span id="icon3" data-type="icon" data-lib="WAF" data-label-position="left" data-label="" data-image-state1="/images/config_02.png" data-icon-type="images" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-icon"><img src="/images/config_02.png" class="waf-icon-state1"/></span>
+ 	 	 	</div>	<div id="container6" data-type="container" data-lib="WAF" data-label-position="top" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-container waf-container-level-1 waf-level-1"></div>
+ 	 		<div id="container7" data-type="container" data-lib="WAF" data-label-position="top" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-container waf-container-level-1 waf-level-1">
+	 	 	 	<span id="icon4" data-type="icon" data-lib="WAF" data-label-position="left" data-label="" data-image-state1="/images/config_02.png" data-icon-type="images" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-icon"><img src="/images/config_02.png" class="waf-icon-state1"/></span>
+ 	 	 	</div>
+
+ 	 	</div>
+ 		<div id="container2" data-type="container" data-linked-tag="menuItem2" data-lib="WAF" data-label-position="top" data-label="" data-context="['protected','allowDrop','allowBind','allowPaste']" data-constraint-top="true" data-constraint-right="true" data-constraint-left="true" data-constraint-bottom="true" class="waf-widget waf-container waf-container-level-0 waf-level-0 waf-tabView-container-level-0"></div>
+ 		<div id="container3" data-type="container" data-linked-tag="menuItem3" data-lib="WAF" data-label-position="top" data-label="" data-context="['protected','allowDrop','allowBind','allowPaste']" data-constraint-top="true" data-constraint-right="true" data-constraint-left="true" data-constraint-bottom="true" class="waf-widget waf-container waf-container-level-0 waf-level-0 waf-tabView-container-level-0">
+ 	 	</div>
+ 	</div>
+		<span id="icon1" data-type="icon" data-lib="WAF" data-label-position="left" data-label="" data-image-state1="/images/logo.png" data-icon-type="images" data-constraint-top="true" data-constraint-left="true" class="waf-widget waf-icon"><img src="/images/logo.png" class="waf-icon-state1"/></span>
+		<div id="richText4" data-type="richText" data-lib="WAF" class="waf-widget waf-richText" data-autoWidth="true" data-label="" data-label-position="left" data-target="_blank" data-overflow="Hidden" data-plainText="true" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">Technical Assistance On the Web</div>
+
+		<div id="richText4" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="true" class="waf-widget waf-richText">Technical Assistance On the Web</div>
+	
+		<script type="text/javascript" src="/waLib/WAF/Loader.js"></script>
+	</body>
+</html>
