@@ -3,6 +3,129 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#richText26 {
+	 width: 85px;
+	 height: 16px;
+	 top: 148px;
+	 left: 9px;
+	
+	 position: absolute;
+	 font-size: 14px;
+	 z-index: 3;
+	 
+}
+
+#select5 {
+	 width: 172px;
+	 height: 25px;
+	 top: 146px;
+	 left: 118px;
+	
+	 position: absolute;
+	 z-index: 2;
+	 
+}
+
+#richText25 {
+	 width: 260px;
+	 height: 20px;
+	 top: 17px;
+	 left: 30px;
+	
+	 position: absolute;
+	 font-family: Verdana, Geneva, sans-serif;
+	 font-size: 17px;
+	 font-weight: bold;
+	 z-index: 1;
+	 
+}
+
+#button6 {
+	 width: 175px;
+	 height: 36px;
+	 top: 82px;
+	 left: 134px;
+	
+	 position: absolute;
+	 background-color: rgb(61, 76, 107);
+	 z-index: 4;
+	 
+}
+
+#richText24 {
+	 width: 119px;
+	 height: 16px;
+	 top: 53px;
+	 left: 2px;
+	
+	 position: absolute;
+	 font-size: 14px;
+	 z-index: 3;
+	 
+}
+
+#select4 {
+	 width: 172px;
+	 height: 25px;
+	 top: 51px;
+	 left: 135px;
+	
+	 position: absolute;
+	 z-index: 2;
+	 
+}
+
+#richText23 {
+	 width: 246px;
+	 height: 20px;
+	 top: 13px;
+	 left: 38px;
+	
+	 position: absolute;
+	 font-family: Verdana, Geneva, sans-serif;
+	 font-size: 17px;
+	 font-weight: bold;
+	 z-index: 1;
+	 
+}
+
+#button5 {
+	 width: 175px;
+	 height: 36px;
+	 top: 316px;
+	 left: 66px;
+	
+	 position: absolute;
+	 background-color: rgb(61, 76, 107);
+	 z-index: 4;
+	 
+}
+
+#textField3 {
+	 z-index: 3;
+	 width: 295px;
+	 height: 251px;
+	 top: 54px;
+	 left: 12px;
+	
+	 position: absolute;
+	 
+}
+
+#richText22 {
+	 width: 109px;
+	 height: 20px;
+	 top: 17px;
+	 left: 97px;
+	
+	 position: absolute;
+	 font-family: Verdana, Geneva, sans-serif;
+	 font-size: 17px;
+	 font-weight: bold;
+	 z-index: 1;
+	 
+}
+
 #richText21 {
 	 width: 78px;
 	 height: 16px;
@@ -830,17 +953,6 @@
 	 
 }
 
-#select4 {
-	 width: 172px;
-	 height: 25px;
-	 top: 159px;
-	 left: 111px;
-	
-	 position: absolute;
-	 z-index: 10;
-	 
-}
-
 #select2 {
 	 width: 172px;
 	 height: 25px;
@@ -849,6 +961,17 @@
 	
 	 position: absolute;
 	 z-index: 2;
+	 
+}
+
+#select20 {
+	 width: 172px;
+	 height: 25px;
+	 top: 159px;
+	 left: 111px;
+	
+	 position: absolute;
+	 z-index: 10;
 	 
 }
 
