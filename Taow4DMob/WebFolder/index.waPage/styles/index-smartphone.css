@@ -4,6 +4,7 @@
 */
 
 #richText26 {
+	 z-index: 3;
 	 width: 85px;
 	 height: 16px;
 	 top: 148px;
@@ -11,22 +12,22 @@
 	
 	 position: absolute;
 	 font-size: 14px;
-	 z-index: 3;
 	 
 }
 
 #select5 {
+	 z-index: 2;
 	 width: 172px;
 	 height: 25px;
 	 top: 146px;
 	 left: 118px;
 	
 	 position: absolute;
-	 z-index: 2;
 	 
 }
 
 #richText25 {
+	 z-index: 1;
 	 width: 260px;
 	 height: 20px;
 	 top: 17px;
@@ -36,11 +37,11 @@
 	 font-family: Verdana, Geneva, sans-serif;
 	 font-size: 17px;
 	 font-weight: bold;
-	 z-index: 1;
 	 
 }
 
 #button6 {
+	 z-index: 4;
 	 width: 175px;
 	 height: 36px;
 	 top: 82px;
@@ -48,11 +49,11 @@
 	
 	 position: absolute;
 	 background-color: rgb(61, 76, 107);
-	 z-index: 4;
 	 
 }
 
 #richText24 {
+	 z-index: 3;
 	 width: 119px;
 	 height: 16px;
 	 top: 53px;
@@ -60,22 +61,22 @@
 	
 	 position: absolute;
 	 font-size: 14px;
-	 z-index: 3;
 	 
 }
 
 #select4 {
+	 z-index: 2;
 	 width: 172px;
 	 height: 25px;
 	 top: 51px;
 	 left: 135px;
 	
 	 position: absolute;
-	 z-index: 2;
 	 
 }
 
 #richText23 {
+	 z-index: 1;
 	 width: 246px;
 	 height: 20px;
 	 top: 13px;
@@ -85,11 +86,11 @@
 	 font-family: Verdana, Geneva, sans-serif;
 	 font-size: 17px;
 	 font-weight: bold;
-	 z-index: 1;
 	 
 }
 
 #button5 {
+	 z-index: 4;
 	 width: 175px;
 	 height: 36px;
 	 top: 316px;
@@ -97,7 +98,6 @@
 	
 	 position: absolute;
 	 background-color: rgb(61, 76, 107);
-	 z-index: 4;
 	 
 }
 
@@ -113,6 +113,7 @@
 }
 
 #richText22 {
+	 z-index: 1;
 	 width: 109px;
 	 height: 20px;
 	 top: 17px;
@@ -122,11 +123,11 @@
 	 font-family: Verdana, Geneva, sans-serif;
 	 font-size: 17px;
 	 font-weight: bold;
-	 z-index: 1;
 	 
 }
 
 #richText21 {
+	 z-index: 6;
 	 width: 78px;
 	 height: 16px;
 	 top: 81px;
@@ -134,22 +135,22 @@
 	
 	 position: absolute;
 	 font-size: 14px;
-	 z-index: 6;
 	 
 }
 
 #select3 {
+	 z-index: 5;
 	 width: 172px;
 	 height: 25px;
 	 top: 79px;
 	 left: 117px;
 	
 	 position: absolute;
-	 z-index: 5;
 	 
 }
 
 #button4 {
+	 z-index: 4;
 	 width: 175px;
 	 height: 36px;
 	 top: 221px;
@@ -157,11 +158,11 @@
 	
 	 position: absolute;
 	 background-color: rgb(61, 76, 107);
-	 z-index: 4;
 	 
 }
 
 #richText20 {
+	 z-index: 3;
 	 width: 47px;
 	 height: 16px;
 	 top: 144px;
@@ -169,11 +170,11 @@
 	
 	 position: absolute;
 	 font-size: 14px;
-	 z-index: 3;
 	 
 }
 
 #richText19 {
+	 z-index: 1;
 	 width: 158px;
 	 height: 20px;
 	 top: 26px;
@@ -183,7 +184,6 @@
 	 font-family: Verdana, Geneva, sans-serif;
 	 font-size: 17px;
 	 font-weight: bold;
-	 z-index: 1;
 	 
 }
 
@@ -200,6 +200,7 @@
 }
 
 #richText18 {
+	 z-index: 13;
 	 width: 67px;
 	 height: 19px;
 	 top: 311px;
@@ -207,11 +208,11 @@
 	
 	 position: absolute;
 	 font-size: 16px;
-	 z-index: 13;
 	 
 }
 
 #richText17 {
+	 z-index: 11;
 	 width: 104px;
 	 height: 16px;
 	 top: 161px;
@@ -219,7 +220,6 @@
 	
 	 position: absolute;
 	 font-size: 14px;
-	 z-index: 11;
 	 
 }
 
@@ -247,6 +247,7 @@
 }
 
 #richText15 {
+	 z-index: 7;
 	 width: 67px;
 	 height: 19px;
 	 top: 278px;
@@ -254,18 +255,17 @@
 	
 	 position: absolute;
 	 font-size: 16px;
-	 z-index: 7;
 	 
 }
 
 #textField2 {
+	 z-index: 6;
 	 width: 170px;
 	 height: 31px;
 	 top: 273px;
 	 left: 87px;
 	
 	 position: absolute;
-	 z-index: 6;
 	 
 }
 
@@ -943,35 +943,35 @@
 }
 
 #textField4 {
+	 z-index: 12;
 	 width: 170px;
 	 height: 31px;
 	 top: 306px;
 	 left: 86px;
 	
 	 position: absolute;
-	 z-index: 12;
 	 
 }
 
 #select2 {
+	 z-index: 2;
 	 width: 172px;
 	 height: 25px;
 	 top: 142px;
 	 left: 114px;
 	
 	 position: absolute;
-	 z-index: 2;
 	 
 }
 
 #select20 {
+	 z-index: 10;
 	 width: 172px;
 	 height: 25px;
 	 top: 159px;
 	 left: 111px;
 	
 	 position: absolute;
-	 z-index: 10;
 	 
 }
 
